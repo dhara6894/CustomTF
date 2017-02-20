@@ -5,6 +5,10 @@
 [![License](https://img.shields.io/cocoapods/l/SpaceText.svg?style=flat)](http://cocoapods.org/pods/SpaceText)
 [![Platform](https://img.shields.io/cocoapods/p/SpaceText.svg?style=flat)](http://cocoapods.org/pods/SpaceText)
 
+## Demo
+
+![SpaceText](https://github.com/dhara6894/CustomTF/blob/master/Images/SpaceText.gif)
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
