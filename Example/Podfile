@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SpaceText_Example' do
+  pod 'SpaceText', :path => '../'
+
+  target 'SpaceText_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
