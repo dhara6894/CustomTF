@@ -1,0 +1,6 @@
+framework module Pods_SpaceText_Tests {
+  umbrella header "Pods-SpaceText_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

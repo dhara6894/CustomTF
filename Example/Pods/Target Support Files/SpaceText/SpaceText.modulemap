@@ -1,0 +1,6 @@
+framework module SpaceText {
+  umbrella header "SpaceText-umbrella.h"
+
+  export *
+  module * { export * }
+}

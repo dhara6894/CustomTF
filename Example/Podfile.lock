@@ -1,0 +1,16 @@
+PODS:
+  - SpaceText (0.1.0)
+
+DEPENDENCIES:
+  - SpaceText (from `../`)
+
+EXTERNAL SOURCES:
+  SpaceText:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SpaceText: 4024d59cb3332eb858dbb92d473a8b798ef23074
+
+PODFILE CHECKSUM: 90e53584b6dcd3349df26542d21e5a0633881dcc
+
+COCOAPODS: 1.1.1
